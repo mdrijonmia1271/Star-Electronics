@@ -1,0 +1,8 @@
+[15-May-2022 12:25:42 America/New_York] PHP Fatal error:  Class 'setasign\Fpdi\Tfpdf\FpdfTpl' not found in /home/freebovd/sebaelectronics.com/vendor/setasign/fpdi/src/Tfpdf/Fpdi.php on line 26
+[16-May-2022 02:03:31 America/New_York] PHP Fatal error:  Class 'tFPDF' not found in /home/freebovd/sebaelectronics.com/vendor/setasign/fpdi/src/Tfpdf/FpdfTpl.php on line 22
+[01-Jun-2022 21:29:23 America/New_York] PHP Fatal error:  Class 'setasign\Fpdi\Tfpdf\FpdfTpl' not found in /home/freebovd/sebaelectronics.com/vendor/setasign/fpdi/src/Tfpdf/Fpdi.php on line 26
+[09-Jun-2022 04:13:55 America/New_York] PHP Fatal error:  Class 'setasign\Fpdi\Tfpdf\FpdfTpl' not found in /home/freebovd/sebaelectronics.com/vendor/setasign/fpdi/src/Tfpdf/Fpdi.php on line 26
+[14-Jun-2022 09:49:43 America/New_York] PHP Fatal error:  Class 'setasign\Fpdi\Tfpdf\FpdfTpl' not found in /home/freebovd/sebaelectronics.com/vendor/setasign/fpdi/src/Tfpdf/Fpdi.php on line 26
+[17-Jun-2022 00:50:52 America/New_York] PHP Fatal error:  Class 'tFPDF' not found in /home/freebovd/sebaelectronics.com/vendor/setasign/fpdi/src/Tfpdf/FpdfTpl.php on line 22
+[24-Jun-2022 11:28:10 America/New_York] PHP Fatal error:  Class 'setasign\Fpdi\Tfpdf\FpdfTpl' not found in /home/freebovd/sebaelectronics.com/vendor/setasign/fpdi/src/Tfpdf/Fpdi.php on line 26
+[24-Jun-2022 23:14:07 America/New_York] PHP Fatal error:  Class 'tFPDF' not found in /home/freebovd/sebaelectronics.com/vendor/setasign/fpdi/src/Tfpdf/FpdfTpl.php on line 22

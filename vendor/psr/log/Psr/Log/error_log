@@ -1,0 +1,12 @@
+[13-May-2022 08:23:54 America/New_York] PHP Fatal error:  Class 'Psr\Log\AbstractLogger' not found in /home/freebovd/sebaelectronics.com/vendor/psr/log/Psr/Log/NullLogger.php on line 14
+[15-May-2022 06:10:17 America/New_York] PHP Fatal error:  Interface 'Psr\Log\LoggerInterface' not found in /home/freebovd/sebaelectronics.com/vendor/psr/log/Psr/Log/AbstractLogger.php on line 13
+[18-May-2022 23:09:06 America/New_York] PHP Fatal error:  Class 'Psr\Log\AbstractLogger' not found in /home/freebovd/sebaelectronics.com/vendor/psr/log/Psr/Log/NullLogger.php on line 14
+[03-Jun-2022 18:39:04 America/New_York] PHP Fatal error:  Interface 'Psr\Log\LoggerInterface' not found in /home/freebovd/sebaelectronics.com/vendor/psr/log/Psr/Log/AbstractLogger.php on line 13
+[04-Jun-2022 13:58:10 America/New_York] PHP Fatal error:  Class 'Psr\Log\AbstractLogger' not found in /home/freebovd/sebaelectronics.com/vendor/psr/log/Psr/Log/NullLogger.php on line 14
+[09-Jun-2022 10:01:26 America/New_York] PHP Fatal error:  Interface 'Psr\Log\LoggerInterface' not found in /home/freebovd/sebaelectronics.com/vendor/psr/log/Psr/Log/AbstractLogger.php on line 13
+[10-Jun-2022 14:33:40 America/New_York] PHP Fatal error:  Class 'Psr\Log\AbstractLogger' not found in /home/freebovd/sebaelectronics.com/vendor/psr/log/Psr/Log/NullLogger.php on line 14
+[11-Jun-2022 07:50:41 America/New_York] PHP Fatal error:  Class 'Psr\Log\AbstractLogger' not found in /home/freebovd/sebaelectronics.com/vendor/psr/log/Psr/Log/NullLogger.php on line 14
+[17-Jun-2022 02:36:47 America/New_York] PHP Fatal error:  Class 'Psr\Log\AbstractLogger' not found in /home/freebovd/sebaelectronics.com/vendor/psr/log/Psr/Log/NullLogger.php on line 14
+[18-Jun-2022 16:14:26 America/New_York] PHP Fatal error:  Interface 'Psr\Log\LoggerInterface' not found in /home/freebovd/sebaelectronics.com/vendor/psr/log/Psr/Log/AbstractLogger.php on line 13
+[24-Jun-2022 21:12:11 America/New_York] PHP Fatal error:  Interface 'Psr\Log\LoggerInterface' not found in /home/freebovd/sebaelectronics.com/vendor/psr/log/Psr/Log/AbstractLogger.php on line 13
+[26-Jun-2022 16:41:42 America/New_York] PHP Fatal error:  Class 'Psr\Log\AbstractLogger' not found in /home/freebovd/sebaelectronics.com/vendor/psr/log/Psr/Log/NullLogger.php on line 14

@@ -1,0 +1,25 @@
+[17-May-2022 01:33:48 America/New_York] PHP Fatal error:  Uncaught exception 'UnexpectedValueException' with message 'creating archive "/home/freebovd/sebaelectronics.com/vendor/paragonie/random_compat/dist/random_compat.phar" disabled by the php.ini setting phar.readonly' in /home/freebovd/sebaelectronics.com/vendor/paragonie/random_compat/other/build_phar.php:13
+Stack trace:
+#0 /home/freebovd/sebaelectronics.com/vendor/paragonie/random_compat/other/build_phar.php(13): Phar->__construct('/home/freebovd/...', 256, 'random_compat.p...')
+#1 {main}
+  thrown in /home/freebovd/sebaelectronics.com/vendor/paragonie/random_compat/other/build_phar.php on line 13
+[06-Jun-2022 13:32:08 America/New_York] PHP Fatal error:  Uncaught exception 'UnexpectedValueException' with message 'creating archive "/home/freebovd/sebaelectronics.com/vendor/paragonie/random_compat/dist/random_compat.phar" disabled by the php.ini setting phar.readonly' in /home/freebovd/sebaelectronics.com/vendor/paragonie/random_compat/other/build_phar.php:13
+Stack trace:
+#0 /home/freebovd/sebaelectronics.com/vendor/paragonie/random_compat/other/build_phar.php(13): Phar->__construct('/home/freebovd/...', 256, 'random_compat.p...')
+#1 {main}
+  thrown in /home/freebovd/sebaelectronics.com/vendor/paragonie/random_compat/other/build_phar.php on line 13
+[12-Jun-2022 22:23:30 America/New_York] PHP Fatal error:  Uncaught exception 'UnexpectedValueException' with message 'creating archive "/home/freebovd/sebaelectronics.com/vendor/paragonie/random_compat/dist/random_compat.phar" disabled by the php.ini setting phar.readonly' in /home/freebovd/sebaelectronics.com/vendor/paragonie/random_compat/other/build_phar.php:13
+Stack trace:
+#0 /home/freebovd/sebaelectronics.com/vendor/paragonie/random_compat/other/build_phar.php(13): Phar->__construct('/home/freebovd/...', 256, 'random_compat.p...')
+#1 {main}
+  thrown in /home/freebovd/sebaelectronics.com/vendor/paragonie/random_compat/other/build_phar.php on line 13
+[19-Jun-2022 08:12:41 America/New_York] PHP Fatal error:  Uncaught exception 'UnexpectedValueException' with message 'creating archive "/home/freebovd/sebaelectronics.com/vendor/paragonie/random_compat/dist/random_compat.phar" disabled by the php.ini setting phar.readonly' in /home/freebovd/sebaelectronics.com/vendor/paragonie/random_compat/other/build_phar.php:13
+Stack trace:
+#0 /home/freebovd/sebaelectronics.com/vendor/paragonie/random_compat/other/build_phar.php(13): Phar->__construct('/home/freebovd/...', 256, 'random_compat.p...')
+#1 {main}
+  thrown in /home/freebovd/sebaelectronics.com/vendor/paragonie/random_compat/other/build_phar.php on line 13
+[25-Jun-2022 14:13:31 America/New_York] PHP Fatal error:  Uncaught exception 'UnexpectedValueException' with message 'creating archive "/home/freebovd/sebaelectronics.com/vendor/paragonie/random_compat/dist/random_compat.phar" disabled by the php.ini setting phar.readonly' in /home/freebovd/sebaelectronics.com/vendor/paragonie/random_compat/other/build_phar.php:13
+Stack trace:
+#0 /home/freebovd/sebaelectronics.com/vendor/paragonie/random_compat/other/build_phar.php(13): Phar->__construct('/home/freebovd/...', 256, 'random_compat.p...')
+#1 {main}
+  thrown in /home/freebovd/sebaelectronics.com/vendor/paragonie/random_compat/other/build_phar.php on line 13

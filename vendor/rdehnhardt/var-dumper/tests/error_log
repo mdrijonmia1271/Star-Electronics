@@ -1,0 +1,12 @@
+[13-May-2022 09:32:56 America/New_York] PHP Fatal error:  Class 'PHPUnit\Framework\TestCase' not found in /home/freebovd/sebaelectronics.com/vendor/rdehnhardt/var-dumper/tests/HtmlDumperTest.php on line 8
+[19-May-2022 12:50:48 America/New_York] PHP Fatal error:  Class 'PHPUnit\Framework\TestCase' not found in /home/freebovd/sebaelectronics.com/vendor/rdehnhardt/var-dumper/tests/HtmlDumperTest.php on line 8
+[20-May-2022 11:47:20 America/New_York] PHP Fatal error:  Class 'PHPUnit\Framework\TestCase' not found in /home/freebovd/sebaelectronics.com/vendor/rdehnhardt/var-dumper/tests/DumperTest.php on line 7
+[31-May-2022 21:09:25 America/New_York] PHP Fatal error:  Class 'PHPUnit\Framework\TestCase' not found in /home/freebovd/sebaelectronics.com/vendor/rdehnhardt/var-dumper/tests/HtmlDumperTest.php on line 8
+[01-Jun-2022 23:12:29 America/New_York] PHP Fatal error:  Class 'PHPUnit\Framework\TestCase' not found in /home/freebovd/sebaelectronics.com/vendor/rdehnhardt/var-dumper/tests/DumperTest.php on line 7
+[06-Jun-2022 21:11:43 America/New_York] PHP Fatal error:  Class 'PHPUnit\Framework\TestCase' not found in /home/freebovd/sebaelectronics.com/vendor/rdehnhardt/var-dumper/tests/HtmlDumperTest.php on line 8
+[08-Jun-2022 18:38:31 America/New_York] PHP Fatal error:  Class 'PHPUnit\Framework\TestCase' not found in /home/freebovd/sebaelectronics.com/vendor/rdehnhardt/var-dumper/tests/DumperTest.php on line 7
+[16-Jun-2022 06:27:39 America/New_York] PHP Fatal error:  Class 'PHPUnit\Framework\TestCase' not found in /home/freebovd/sebaelectronics.com/vendor/rdehnhardt/var-dumper/tests/DumperTest.php on line 7
+[16-Jun-2022 19:19:14 America/New_York] PHP Fatal error:  Class 'PHPUnit\Framework\TestCase' not found in /home/freebovd/sebaelectronics.com/vendor/rdehnhardt/var-dumper/tests/HtmlDumperTest.php on line 8
+[21-Jun-2022 11:16:12 America/New_York] PHP Fatal error:  Class 'PHPUnit\Framework\TestCase' not found in /home/freebovd/sebaelectronics.com/vendor/rdehnhardt/var-dumper/tests/DumperTest.php on line 7
+[23-Jun-2022 03:28:19 America/New_York] PHP Fatal error:  Class 'PHPUnit\Framework\TestCase' not found in /home/freebovd/sebaelectronics.com/vendor/rdehnhardt/var-dumper/tests/HtmlDumperTest.php on line 8
+[26-Jun-2022 23:00:18 America/New_York] PHP Fatal error:  Class 'PHPUnit\Framework\TestCase' not found in /home/freebovd/sebaelectronics.com/vendor/rdehnhardt/var-dumper/tests/DumperTest.php on line 7
